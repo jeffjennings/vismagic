@@ -1,2 +1,1 @@
-# py_repo
-A generic template for a Python repository
+Simple tools for interfacing with, visualizing and assessing visibility datasets
